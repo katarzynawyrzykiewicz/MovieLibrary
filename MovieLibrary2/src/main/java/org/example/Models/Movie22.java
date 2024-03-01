@@ -12,6 +12,9 @@ public class Movie22 {
 
         public void setFirstname(String firstname) {
             this.firstname = firstname;
+
+            public void setFirstname(String firstname) {
+                this.firstname = firstname;
         }
     }
 
