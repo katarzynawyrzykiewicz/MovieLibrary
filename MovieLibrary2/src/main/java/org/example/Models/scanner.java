@@ -20,7 +20,7 @@ public class Main
         }
         else
         {
-            System.out.println("Witam " + name + "\n" + "Życzymy miłej zabawy");
+            System.out.println("Witamm " + name + "\n" + "Życzymy miłej zabawy");
         }
 
     }
